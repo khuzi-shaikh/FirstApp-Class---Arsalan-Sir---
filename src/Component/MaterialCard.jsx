@@ -15,7 +15,7 @@ export const MaterialCard = () => {
       <h1 id="h1">Khuzi's Online Store</h1>
       <h3 id="login">Login</h3>
       <h3 id="seller">Become a Seller</h3>
-      <h3 id="cart">🛒Cart</h3>
+      <h3 id="cart">🛒Cart</h3> 
       <br />
       <br />
       <img
