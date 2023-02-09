@@ -2,6 +2,8 @@ import React from 'react'
 
 export const Zimadsir = () => {
   return (
-    <div>Zimadsir</div>
+    <div>
+      <h1>Zimadsir</h1>
+    </div>
   )
 }
