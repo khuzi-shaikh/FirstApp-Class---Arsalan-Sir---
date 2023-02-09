@@ -20,7 +20,7 @@ export const SchoolForm = () => {
     const deleteData = data.filter((item, ind) => ind != index);
     setData(deleteData);
   };
-  console.log(data);
+
   return (
     <div>
       <h1>School Ragistration</h1>
